@@ -1,5 +1,7 @@
 # Learn_R
 
+https://guides.github.com/features/mastering-markdown/
+
 #### Introduction to R
 * Statistical Computing / Analysis
 * Comprehensive R Archive Network - CRAN
